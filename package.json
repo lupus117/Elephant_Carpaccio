@@ -1,0 +1,26 @@
+{
+  "name": "elephant_carpaccio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lupus117/Elephant_Carpaccio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lupus117/Elephant_Carpaccio/issues"
+  },
+  "homepage": "https://github.com/lupus117/Elephant_Carpaccio#readme"
+}
